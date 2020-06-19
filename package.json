@@ -1,0 +1,20 @@
+{
+  "name": "express-https-localhost",
+  "version": "1.0.0",
+  "description": "Example repo for exposing Express via HTTPS in localhost",
+  "main": "http-example.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheshbabu/express-https-localhost.git"
+  },
+  "keywords": [],
+  "author": "sheshbabu@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sheshbabu/express-https-localhost/issues"
+  },
+  "homepage": "https://github.com/sheshbabu/express-https-localhost#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
