@@ -15,6 +15,6 @@
   },
   "homepage": "https://github.com/sheshbabu/express-https-localhost#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
